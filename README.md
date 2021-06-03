@@ -42,4 +42,12 @@ G3_Simillarities:
  song 1/2 ---> same Singer 
  song 3/4 ---> same music and lyrics
 ``````````````````````````````````````````````
+Songs of Group 10
+#song 1-> Bob Dylan Mr.Tambourine man
+#song 2-> Bob Dylan Mr.Tambourine man(live)
+#song 3->John Legend Love me now 
+#song 4->John Legend All of me
 
+Simillarities:
+ song 1 and 2 same singer
+ song 3 and 4 same singer
