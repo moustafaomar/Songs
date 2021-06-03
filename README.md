@@ -49,7 +49,7 @@ Songs of Group 10
 #song 4->John Legend All of me
 
 Simillarities:
- song 1/2 same singer
- song 3/4 same singer
+ song 1 and 2 same singer
+ song 3 and 4 same singer
 ``````````````````````````````````````````````
 ````````````````````````````````````````````````````````````````````````````````````
