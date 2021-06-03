@@ -51,3 +51,10 @@ Songs of Group 10
 Simillarities:
  song 1 and 2 same singer
  song 3 and 4 same singer
+````````````````````````````````````````````````
+#Songs of Group 6
+#song 1>El lela ya samra
+#song 2>Mahmoum
+#song 3>Msh laye2 3alaya
+#song 4>Athar shababek ya balad
+#Similarty: Same singer
