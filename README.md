@@ -20,7 +20,7 @@ G4_ ~simillarities~
  song 1/2 music and lyrics
  song 3/4 music and lyrics
 ``````````````````````````````````````````````
-````````````````````````````````````````````````````````````````````````````````````
+``````````````````````````````````````````````
 Songs of Group 7
 song 1 -> Sia-Unstopable
 song 2 -> Sia-together
@@ -30,7 +30,7 @@ Similarity:
 song 1 and 2 : same singer
 song 3 and 4 : similer tunes
 `````````````````````````````````````````````
-````````````````````````````````````````````````````````````````````````````````````
+`````````````````````````````````````````````
 Songs of Group 3
 #song 1-> Only you (Louis Armstrong)
 #song 2-> What A Wonderful World (Louis Armstrong)
