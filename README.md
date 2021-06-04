@@ -42,3 +42,18 @@ G3_Simillarities:
  song 1/2 ---> same Singer 
  song 3/4 ---> same music and lyrics
 ``````````````````````````````````````````````
+``````````````````````````````````````````````
+``````````````````````````````````````````````
+Songs of Group 2
+#song 1-> million years ago (adele)
+#song 2-> when we were young (adele)
+#song 3-> set fire to the rain (adele)
+#song 4-> set fire to the rain (cover)(faouzia)
+_____________________________________
+G2_Simillarities:
+ song 1/2/3 ---> same Singer 
+ song 3/4 ---> same music and lyrics
+``````````````````````````````````````````````
+``````````````````````````````````````````````
+``````````````````````````````````````````````
+
