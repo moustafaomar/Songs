@@ -42,6 +42,21 @@ G3_Simillarities:
  song 1/2 ---> same Singer 
  song 3/4 ---> same music and lyrics
 ``````````````````````````````````````````````
+``````````````````````````````````````````````
+``````````````````````````````````````````````
+Songs of Group 2
+#song 1-> million years ago (adele)
+#song 2-> when we were young (adele)
+#song 3-> set fire to the rain (adele)
+#song 4-> set fire to the rain (cover)(faouzia)
+_____________________________________
+G2_Simillarities:
+ song 1/2/3 ---> same Singer 
+ song 3/4 ---> same music and lyrics
+``````````````````````````````````````````````
+``````````````````````````````````````````````
+``````````````````````````````````````````````
+
 Songs of Group 10
 #song 1-> Bob Dylan Mr.Tambourine man
 #song 2-> Bob Dylan Mr.Tambourine man(live)
@@ -58,3 +73,5 @@ Simillarities:
 #song 3>Msh laye2 3alaya
 #song 4>Athar shababek ya balad
 #Similarty: Same singer
+=======
+``````````````````````````````````````````````
