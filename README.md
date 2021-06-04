@@ -43,7 +43,6 @@ G3_Simillarities:
  song 3/4 ---> same music and lyrics
 ``````````````````````````````````````````````
 ``````````````````````````````````````````````
-``````````````````````````````````````````````
 Songs of Group 2
 #song 1-> million years ago (adele)
 #song 2-> when we were young (adele)
@@ -55,7 +54,7 @@ G2_Simillarities:
  song 3/4 ---> same music and lyrics
 ``````````````````````````````````````````````
 ``````````````````````````````````````````````
-``````````````````````````````````````````````
+
 
 Songs of Group 10
 #song 1-> Bob Dylan Mr.Tambourine man
